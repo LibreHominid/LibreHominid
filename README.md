@@ -1,5 +1,5 @@
 ## Hi there 👋
-Multidisciplinary engineer dedicated to community health, safety and education.
+Multidisciplinary engineer 🛠️ dedicated to community health, safety and education.
 🛰️ ✈️ 🏔️ 🏕️ ⚛️
 
 Programming Languages:  
