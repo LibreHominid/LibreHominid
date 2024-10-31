@@ -1,4 +1,13 @@
 ## Hi there 👋
+Multidisciplinary engineer dedicated to community health, safety and education.
+🛰️ ✈️ 🏔️ 🏕️ ⚛️
+
+Programming Languages:  
+![Rust](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=black&labelColor=%23cc5200&color=black)
+![Julia](https://img.shields.io/badge/Julia-informational?style=flat&logo=julia&logoColor=%239558B2&labelColor=white&color=black)
+![Bash](https://img.shields.io/badge/GNU_Bash-informational?style=flat&logo=GNU%20Bash&logoColor=blue&labelColor=white&color=black)
+![MD](https://img.shields.io/badge/Markdown-informational?style=flat&logo=Markdown&logoColor=white&labelColor=black&color=black)
+![Py](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=blue&labelColor=black&color=black)
 
 <!--
 **LibreHominid/LibreHominid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
